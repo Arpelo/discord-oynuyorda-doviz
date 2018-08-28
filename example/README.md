@@ -1,1 +1,1 @@
-To run this example simply run `npm run example`
+konsola `npm run example` ile çalıştırın.
