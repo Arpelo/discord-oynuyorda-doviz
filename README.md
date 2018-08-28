@@ -20,7 +20,7 @@ burada oynuyor kısmında yazacak yazınızı belirleyin.
 
 ardından küçük resiminizi ve büyük resminizi belirleyin (512x512 minimum)
 
-![deneme](https://cdn.discordapp.com/attachments/481174813126164481/483240875736956929/unknown.png)
+![deneme](https://cdn.discordapp.com/attachments/481174813126164481/484089878674407436/unknown.png)
 
 fotoğraf ekledikten sonraki görünüm
 
