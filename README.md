@@ -44,4 +44,4 @@ RPC Kaynak:https://github.com/discordjs/RPC#readme
 Yardımları için: Lavaş Bey#2955,AcarSY#4277
 # Destek Sunucusu
 Kurulumda herhangi bir sorun yaşamanız halinde sunucuya (https://discord.gg/BMVZ2Mp) katılıp bana soru sorabilirsiniz!
-**Kullanırken sahibini hatırlamanız dileği ile.. .d
+**Kullanırken sahibini hatırlamanız dileği ile.. .d**
