@@ -26,7 +26,7 @@ fotoğraf ekledikten sonraki görünüm
 
 ![deneme](https://cdn.discordapp.com/attachments/481174813126164481/483879963548844033/unknown.png)
 
-arından General Information sayfasına geri gelip orada yazan CLIENT ID değerini kopyalıyoruz ve main.js altındaki bu yere yapıştırıyoruz
+arından General Information sayfasına geri gelip orada yazan CLIENT ID değerini kopyalıyoruz ve example/main.js altındaki bu yere yapıştırıyoruz
 
 ![deneme](https://cdn.discordapp.com/attachments/481174813126164481/483881356682592258/Adsz.jpg)
 
