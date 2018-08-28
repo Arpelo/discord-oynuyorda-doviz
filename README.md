@@ -3,7 +3,7 @@
 
 # Tanıtım
 
-![deneme](https://cdn.discordapp.com/attachments/481174813126164481/483237389310099477/unknown.png)
+![deneme](https://cdn.discordapp.com/attachments/481174813126164481/484088518453231616/unknown.png)
 
 veriler doviz.com'dan alınmaktadır.
 
