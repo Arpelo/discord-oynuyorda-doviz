@@ -16,7 +16,7 @@ https://discordapp.com/developers adresine giriş yapın
 
 burada oynuyor kısmında yazacak yazınızı belirleyin.
 
-![deneme](https://cdn.discordapp.com/attachments/481174813126164481/483240230640418829/unknown.png)
+![deneme](https://cdn.discordapp.com/attachments/481174813126164481/484089265756569610/unknown.png)
 
 ardından küçük resiminizi ve büyük resminizi belirleyin (512x512 minimum)
 
